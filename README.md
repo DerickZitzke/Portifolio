@@ -23,7 +23,6 @@ Este projeto foi desenvolvido para apresentar meu perfil profissional, meus inte
 ## 🖼 Demonstração
 
 📌 **Acesse a versão online:** [Clique aqui](https://derickzitzke.github.io/Portifolio/)  
-*(Suba o projeto no GitHub Pages para ativar o link)*
 
 ---
 
