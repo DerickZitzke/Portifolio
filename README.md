@@ -55,7 +55,7 @@ Este projeto foi desenvolvido para apresentar meu perfil profissional, meus inte
 
 1. **Clone este repositório**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/DerickZitzke/Portifolio
 Abra o arquivo index.html no navegador.
 
 📜 Licença
